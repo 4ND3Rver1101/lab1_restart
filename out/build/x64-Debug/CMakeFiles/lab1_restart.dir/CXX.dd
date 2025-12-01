@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\lab1_restart.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\lab1_restart.dir\file_io.cpp.obj: dyndep
+
+build CMakeFiles\lab1_restart.dir\sort.cpp.obj: dyndep
+
+build CMakeFiles\lab1_restart.dir\utils.cpp.obj: dyndep
+

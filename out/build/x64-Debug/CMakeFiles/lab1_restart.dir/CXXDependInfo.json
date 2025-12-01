@@ -1,0 +1,42 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/ander/source/repos/lab1_restart/out/build/x64-Debug",
+	"dir-cur-src" : "C:/Users/ander/source/repos/lab1_restart",
+	"dir-top-bld" : "C:/Users/ander/source/repos/lab1_restart/out/build/x64-Debug",
+	"dir-top-src" : "C:/Users/ander/source/repos/lab1_restart",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/ander/source/repos/lab1_restart/out/build/x64-Debug/CMakeFiles/lab1_restart.dir",
+	"sources" : 
+	{
+		"CMakeFiles/lab1_restart.dir/file_io.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ander/source/repos/lab1_restart/file_io.cpp"
+		},
+		"CMakeFiles/lab1_restart.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ander/source/repos/lab1_restart/main.cpp"
+		},
+		"CMakeFiles/lab1_restart.dir/sort.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ander/source/repos/lab1_restart/sort.cpp"
+		},
+		"CMakeFiles/lab1_restart.dir/utils.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ander/source/repos/lab1_restart/utils.cpp"
+		}
+	}
+}
